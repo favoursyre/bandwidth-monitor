@@ -27,8 +27,9 @@ This script monitors the bandwidth of a system
 
 ## Installations
 
-````shell
+```shell
 git clone https://github.com/favoursyre/bandwidth-monitor.git && cd bandwidth-monitor
+```
 
 ## Usage
 
@@ -37,7 +38,7 @@ Instantiating the class
 ```python
 secs = 50
 stats = monitor(secs)
-````
+```
 
 ## Run
 
